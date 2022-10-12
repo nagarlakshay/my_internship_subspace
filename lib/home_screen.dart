@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
-import 'package:subspace_clone_intern/Explore_screen.dart';
+import 'package:subspace_clone_intern/Join_click_screen.dart';
 import 'package:subspace_clone_intern/video_player.dart';
 import 'package:video_player/video_player.dart';
 

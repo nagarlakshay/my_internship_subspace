@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:subspace_clone_intern/Explore_screen.dart';
+import 'package:subspace_clone_intern/Join_click_screen.dart';
 import 'package:subspace_clone_intern/home_screen.dart';
 
 void main() {
